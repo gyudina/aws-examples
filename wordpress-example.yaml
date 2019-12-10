@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: ''
+AWSTemplateFormatVersion: '2010-09-09'
 
 Description: >
   WordPress with a bastion host, auto scaling group, load balancer, and MySQL database.
